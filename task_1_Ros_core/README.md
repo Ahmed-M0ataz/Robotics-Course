@@ -8,3 +8,10 @@
 
 ### 3. Let's say you have a camera, publish RGB images and subscribe to the Localization node and IMU you publish the IMU data and subscribe to pose estimation and Localization nodes.
 ![alt text](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_1_Ros_core/task_1_localization_and_poseEstimation.png)
+
+# Task 4.3
+### Let’s create our Service client and Service response over ROS.
+Let’s say we have a robot and the robot working inside a warehouse, you want to know what the robot sees every 30 minutes. 
+Your task is to visualize using the ROS service, how you can do that.
+
+![alt text](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_1_Ros_core/task_1_service.png)
