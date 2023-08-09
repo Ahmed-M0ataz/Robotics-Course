@@ -15,3 +15,9 @@ Let’s say we have a robot and the robot working inside a warehouse, you want t
 Your task is to visualize using the ROS service, how you can do that.
 
 ![alt text](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_1_Ros_core/task_1_service.png)
+
+# Task 4.4
+
+### et’s say in your future company they decide to give you a task, this task is to design a Hardware architecture for their robot.
+
+![alt text](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_1_Ros_core/task_1_Hardware_architecture.png)
