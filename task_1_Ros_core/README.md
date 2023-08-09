@@ -20,4 +20,4 @@ Your task is to visualize using the ROS service, how you can do that.
 
 ### et’s say in your future company they decide to give you a task, this task is to design a Hardware architecture for their robot.
 
-![alt text](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_1_Ros_core/task_1_Hardware_architecture.png)
+![alt text](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_1_Ros_core/task_1_Hardware_architecture_2.png)
