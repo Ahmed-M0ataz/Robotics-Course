@@ -1,0 +1,8 @@
+prefix=/home/ahmedmoataz/task_2_move_turtelsim_ws/devel
+
+Name: move_turtle_pkg
+Description: Description of move_turtle_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
