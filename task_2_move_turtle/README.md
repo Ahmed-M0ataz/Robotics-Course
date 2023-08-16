@@ -1,6 +1,7 @@
 # Task 5.1
 ### 1. Create a PKG and add suitable dependencies for running this code. 
-You should run turtlesim node first then run the package, this code should run the turtlesim in X direction
+You should run turtlesim node first then run the package, this code should run the turtlesim in X direction.
+#### Instructions
     • rosrun turtlesim turtlesim_node
     • Rosrun move_turtle_pkg pup_move_turtle.py
 
