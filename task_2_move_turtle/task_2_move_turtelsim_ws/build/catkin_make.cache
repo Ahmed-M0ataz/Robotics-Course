@@ -1,2 +1,0 @@
-create_message
--DCATKIN_DEVEL_PREFIX=/home/ahmedmoataz/task_2_move_turtelsim_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmedmoataz/task_2_move_turtelsim_ws/install -G Unix Makefiles

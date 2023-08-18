@@ -5,7 +5,7 @@ You should run turtlesim node first then run the package, this code should run t
     • rosrun turtlesim turtlesim_node
     • rosrun move_turtle_pkg pup_move_turtle.py
 
-![Task 1 move turtlesim in x direction](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/move_turtlesim_hit_wall.gif)
+![Task 1 move turtlesim in x direction](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/media/move_turtlesim_hit_wall.gif)
 
 # Task 6
 
@@ -19,13 +19,13 @@ Using the move_turtlesim.py code as a reference, create another node called inpu
     • rosrun turtlesim turtlesim_node
     • rosrun move_turtle_pkg input_user.py 
 
-![Task 2 input user to move turtlesim in linear x and anguler z direction](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/input_user_move_turtle.gif)
+![Task 2 input user to move turtlesim in linear x and anguler z direction](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/media/input_user_move_turtle.gif)
 
 # Task 7
 #### write message nodes that publish Complex(real, imaginary) numbers in cpp.
     1- To Make sure that massege created.
     2- node that publish this complix number.
-![task to create custom msg](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/custom_msg.gif)
+![task to create custom msg](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/media/custom_msg.gif)
 
 ## To more information about how to create custom msg visit:
 [ROS Custom msg](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv "Visit official wibsite")
