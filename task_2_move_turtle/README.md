@@ -26,20 +26,12 @@ Using the move_turtlesim.py code as a reference, create another node called inpu
 
 ![task to create custom msg](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/custom_msg.gif)
 
-##### Steps TO Create A message:
-1- create a folder **msg** and **file.msg** in this folder.
-2- Add in **package.xml**
-    • <build_depend>message_generation</build_depend>
-    • <exec_depend>message_runtime</exec_depend>
-3- Add in **CMakeLists.txt**.
-    • in **find_package** add message_generation.
-    • in **catkin_package** add message_runtime in CATKIN_DEPENDS.
-    • in **add_message_files** add **file.msg**.
-    • uncomment **generate_messages**.
-###### To Make sure that massege created.
+
+#### To Make sure that massege created.
 
 ![rosmsg show](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/rosmsg_show.png)
-#
-[ROS Custom MS](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv "Visit official wibsite")
+
+#### To more information about how to create custom msg visit:
+[ROS Custom msg](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv "Visit official wibsite")
 
   
