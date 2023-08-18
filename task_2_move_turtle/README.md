@@ -27,8 +27,6 @@ Using the move_turtlesim.py code as a reference, create another node called inpu
     2- node that publish this complix number.
 ![task to create custom msg](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/custom_msg.gif)
 
-<hr>
-
 #### To more information about how to create custom msg visit:
 
 [ROS Custom msg](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv "Visit official wibsite")
