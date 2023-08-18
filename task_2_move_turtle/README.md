@@ -31,13 +31,15 @@ Using the move_turtlesim.py code as a reference, create another node called inpu
 2- Add in **package.xml**
     • <build_depend>message_generation</build_depend>
     • <exec_depend>message_runtime</exec_depend>
-3- Add in **CMakeLists.txt**
-    • in **find_package** add message_generation
-    • in **catkin_package** add message_runtime in CATKIN_DEPENDS
-    • in **add_message_files** add **file.msg**
-    • uncomment **generate_messages**
-###### To Make sure that massege created
+3- Add in **CMakeLists.txt**.
+    • in **find_package** add message_generation.
+    • in **catkin_package** add message_runtime in CATKIN_DEPENDS.
+    • in **add_message_files** add **file.msg**.
+    • uncomment **generate_messages**.
+###### To Make sure that massege created.
 
 ![rosmsg show](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/rosmsg_show.png)
+#
+[ROS Custom MS](http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv "Visit official wibsite")
 
   
