@@ -33,4 +33,4 @@ Using the move_turtlesim.py code as a reference, create another node called inpu
 # Task 8
 ### create launch file:
 
-![create launch file](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/launch_move_turtle.gif)
+![create launch file](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/media/launch_move_turtle.gif)
