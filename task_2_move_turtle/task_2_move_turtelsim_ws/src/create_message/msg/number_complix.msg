@@ -1,2 +1,2 @@
-std_msgs/Float32 reall
-std_msgs/Float32 imaginee
+float32 reall
+float32 imaginee
