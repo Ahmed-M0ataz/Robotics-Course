@@ -1,0 +1,8 @@
+prefix=/home/ahmedmoataz/task_2_move_turtelsim_ws/install
+
+Name: create_message
+Description: Description of create_message
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

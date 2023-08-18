@@ -20,3 +20,24 @@ Using the move_turtlesim.py code as a reference, create another node called inpu
     • rosrun move_turtle_pkg input_user.py 
 
 ![Task 2 input user to move turtlesim in linear x and anguler z direction](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/input_user_move_turtle.gif)
+
+# Task 7
+#### write message nodes that publish Complex(real, imaginary) numbers in cpp.
+
+![task to create custom msg](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/custom_msg.gif)
+
+##### Steps TO Create A message:
+1- create a folder **msg** and **file.msg** in this folder.
+2- Add in **package.xml**
+    • <build_depend>message_generation</build_depend>
+    • <exec_depend>message_runtime</exec_depend>
+3- Add in **CMakeLists.txt**
+    • in **find_package** add message_generation
+    • in **catkin_package** add message_runtime in CATKIN_DEPENDS
+    • in **add_message_files** add **file.msg**
+    • uncomment **generate_messages**
+###### To Make sure that massege created
+
+![rosmsg show](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_2_move_turtle/rosmsg_show.png)
+
+  

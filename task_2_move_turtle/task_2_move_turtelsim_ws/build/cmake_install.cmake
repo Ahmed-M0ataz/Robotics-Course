@@ -131,7 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/ahmedmoataz/task_2_move_turtelsim_ws/build/gtest/cmake_install.cmake")
-  include("/home/ahmedmoataz/task_2_move_turtelsim_ws/build/move_turtle_pkg/cmake_install.cmake")
+  include("/home/ahmedmoataz/task_2_move_turtelsim_ws/build/create_message/cmake_install.cmake")
 
 endif()
 

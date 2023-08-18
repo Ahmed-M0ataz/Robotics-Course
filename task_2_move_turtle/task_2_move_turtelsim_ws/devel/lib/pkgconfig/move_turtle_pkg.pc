@@ -3,6 +3,6 @@ prefix=/home/ahmedmoataz/task_2_move_turtelsim_ws/devel
 Name: move_turtle_pkg
 Description: Description of move_turtle_pkg
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/ahmedmoataz/task_2_move_turtelsim_ws/devel/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: roscpp rospy std_msgs message_runtime

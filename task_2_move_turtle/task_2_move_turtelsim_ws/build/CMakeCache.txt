@@ -401,6 +401,33 @@ catkin_DIR:PATH=/opt/ros/noetic/share/catkin/cmake
 cpp_common_DIR:PATH=/opt/ros/noetic/share/cpp_common/cmake
 
 //Value Computed by CMake
+create_message_BINARY_DIR:STATIC=/home/ahmedmoataz/task_2_move_turtelsim_ws/build/create_message
+
+//Value Computed by CMake
+create_message_SOURCE_DIR:STATIC=/home/ahmedmoataz/task_2_move_turtelsim_ws/src/create_message
+
+//The directory containing a CMake configuration file for gencpp.
+gencpp_DIR:PATH=/opt/ros/noetic/share/gencpp/cmake
+
+//The directory containing a CMake configuration file for generate_messages.
+generate_messages_DIR:PATH=generate_messages_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for geneus.
+geneus_DIR:PATH=/opt/ros/noetic/share/geneus/cmake
+
+//The directory containing a CMake configuration file for genlisp.
+genlisp_DIR:PATH=/opt/ros/noetic/share/genlisp/cmake
+
+//The directory containing a CMake configuration file for genmsg.
+genmsg_DIR:PATH=/opt/ros/noetic/share/genmsg/cmake
+
+//The directory containing a CMake configuration file for gennodejs.
+gennodejs_DIR:PATH=/opt/ros/noetic/share/gennodejs/cmake
+
+//The directory containing a CMake configuration file for genpy.
+genpy_DIR:PATH=/opt/ros/noetic/share/genpy/cmake
+
+//Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/ahmedmoataz/task_2_move_turtelsim_ws/build/gtest/googlemock
 
 //Dependencies for the target
@@ -448,6 +475,9 @@ gtest_main_LIB_DEPENDS:STATIC=general;gtest;
 
 //Path to a library.
 lib:FILEPATH=/opt/ros/noetic/lib/libxmlrpcpp.so
+
+//The directory containing a CMake configuration file for message_generation.
+message_generation_DIR:PATH=/opt/ros/noetic/share/message_generation/cmake
 
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/noetic/share/message_runtime/cmake
