@@ -2,7 +2,7 @@
 
 This package converts twist messages to angular velocities for the wheels of a mobile robot with a differential drive configuration.
 
-![rqt_graph](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_4_convert_velocities/media/rqt_graph.svg)
+![rqt_graph](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_4_convert_velocities/media/rosgragh.svg)
 
 ### Package Overview
 
