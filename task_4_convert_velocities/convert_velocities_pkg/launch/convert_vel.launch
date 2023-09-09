@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="convert_velocities_pkg" type="publish_twist.py" name="pub_vel" output = "screen"/>
+    <node pkg="convert_velocities_pkg" type="convert_velocities.py" name="sub_vel" output = "screen"/>
+</launch>
