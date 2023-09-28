@@ -27,3 +27,12 @@ The Python script (`tf_broadcast_example.py`) is structured as follows:
 - Python 3
 - `tf2_ros` library
 
+## Acknowledgments
+
+This project owes its success to the contributions and support of the following:
+
+- [ROS Community](https://www.ros.org/): The vibrant and collaborative ROS community, whose dedication to open-source robotics has been invaluable.
+
+- [ROS Wiki - tf2](http://wiki.ros.org/tf2): The ROS Wiki page on tf2, providing documentation and resources that have been essential in understanding and implementing transforms within the ROS ecosystem.
+
+Your contributions and feedback are highly appreciated!
