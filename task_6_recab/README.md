@@ -22,6 +22,7 @@ roslaunch ros_task_1 heading_angle.launch
 
 ## create urdf file :
 1- Make the model consist of only a rectangle with dimentions 10 (length) cm x 10 (width) cm x5 (height) cm
+
 2- create a semisphere on top of the rectangle in the middle with  a radius of 2.5 cm
 
 ![urdf file](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_6_recab/media/urdf_file.png)
