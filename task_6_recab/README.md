@@ -12,7 +12,7 @@ This ROS package consists of two main nodes:
 
 ## Running the Package
 
-![pub sub](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_6/media/heading_angle.gif)
+![pub sub](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_6_recab/media/heading_angle.gif)
 
 To run this ROS package, use the following command:
 
@@ -22,4 +22,4 @@ roslaunch ros_task_1 heading_angle.launch
 
 ## create urdf file :
 
-![urdf file](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_6/media/urdf_file.png)
+![urdf file](https://github.com/Ahmed-M0ataz/Robotics-Course/blob/main/task_6_recab/media/urdf_file.png)
